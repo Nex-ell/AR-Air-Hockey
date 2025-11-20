@@ -30,7 +30,7 @@ I designed and programmed:
 ---
 
 ##  Video
-*(Upload images here later — I can help with that when you're ready.)*
+
 
 ---
 

@@ -34,7 +34,7 @@ I designed and programmed:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Unity (C#)  
 - Tilt Five AR SDK  
 - Unity Physics  

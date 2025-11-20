@@ -29,7 +29,13 @@ I designed and programmed:
 
 ---
 
-##  Video
+## 🎥 Gameplay Video
+
+Experience AR Air Hockey in action!  
+Click the link below to watch the full gameplay demo:
+
+👉 **[Watch AR Air Hockey Gameplay on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7383497586579496960/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BDNIyBe6KS%2FK%2FWj8nXNbNug%3D%3D)**
+
 
 
 ---

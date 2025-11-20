@@ -5,7 +5,7 @@ The project focuses on spatial gameplay, responsive interactions, and real-time 
 
 ---
 
-## 🎮 About the Game
+##  About the Game
 AR Air Hockey recreates classic air hockey in an augmented space.  
 Players use a virtual paddle to hit the puck across a real-world table, with AR objects anchored in physical space.
 
@@ -18,7 +18,7 @@ This project demonstrates:
 
 ---
 
-## 🧠 My Contributions
+##  My Contributions
 I designed and programmed:
 - Paddle controls & input logic  
 - Puck physics, collisions, and scoring  
@@ -29,7 +29,7 @@ I designed and programmed:
 
 ---
 
-## 📸 Screenshots
+##  Video
 *(Upload images here later — I can help with that when you're ready.)*
 
 ---
@@ -43,7 +43,7 @@ I designed and programmed:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Multiplayer mode  
 - Enhanced air simulation  
 - Scoreboard animations  
@@ -51,7 +51,7 @@ I designed and programmed:
 
 ---
 
-## 📬 Contact
+##  Contact
 **Sparsh Choudhary**  
 📧 sparshchoudhary@mail.adelphi.edu  
 GitHub: https://github.com/Nex-ell
